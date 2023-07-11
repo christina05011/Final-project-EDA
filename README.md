@@ -1,4 +1,4 @@
-# Final-project-EDA
+# Document Retrieval Data Structure
 This repository has:
 1. Python code to preprocess documents from dataset.
 2. Python code to preprocess query documents.
